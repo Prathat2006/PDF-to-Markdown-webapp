@@ -1,0 +1,5 @@
+{
+  "name": "DocIntelli-Text",
+  "description": "An intelligent PDF to Markdown converter. It extracts text, tables, and converts mathematical formulas to LaTeX. It leverages AI to analyze and clean up irrelevant images like logos and presentation artifacts, ensuring a clean, content-focused output.",
+  "requestFramePermissions": []
+}
